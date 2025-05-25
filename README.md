@@ -16,7 +16,16 @@ A personal **portfolio** built using **Flutter**, integrated with **Firebase** f
 - ☁️ Deployment-ready structure
 
 
-## ScreenShot
+## 📸 Screenshots
+
+| Home Screen | Chatbot Interface |
+|-------------|--------------------|
+| ![Screenshot 1](https://github.com/user-attachments/assets/29a957b5-d063-4a76-be38-7a3cb0059ced) | ![Screenshot 2](https://github.com/user-attachments/assets/3c2254df-fd97-401f-b61f-28f700945e85) |
+
+| Project Section | Chatbot Reply | Resume Preview |
+|------------------|----------------|-----------------|
+| ![Screenshot 3](https://github.com/user-attachments/assets/66cfd8c1-d19d-4357-ae66-4ab30f7ae956) | ![Screenshot 4](https://github.com/user-attachments/assets/1b3abc7a-d856-490d-a239-c6c1c298a193) | ![Screenshot 5](https://github.com/user-attachments/assets/e04ffbd9-d511-46d1-8345-c2a9f02f27c8) |
+
 
 
 ## 🛠️ Technologies Used
